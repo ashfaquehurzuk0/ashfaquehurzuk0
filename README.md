@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Ashfaque Hurzuk 👋
 
-<!--
-**ashfaquehurzuk0/ashfaquehurzuk0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Cloud & DevOps Engineer | Navi Mumbai
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
+AWS · Docker · Jenkins · Linux (RHEL) · VMware · Networking (CCNA) · Python · Git
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects
+- [AWS Multi-Tier DevOps Deployment](https://github.com/ashfaquehurzuk0/aws-devops-project) — VPC, ALB, Docker, Jenkins CI/CD
+- [Linux Sysadmin Scripts](https://github.com/ashfaquehurzuk0/linux-sysadmin-scripts) — RHCSA-level administration
+- [Python Basics Practice](https://github.com/ashfaquehurzuk0/python-basics-practice) — scripting fundamentals
+
+## 📫 Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue)](https://www.linkedin.com/in/ashfaque-hurzuk-a2b8a637a)
+
+📍 Navi Mumbai | Open to Cloud Engineer & DevOps roles
