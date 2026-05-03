@@ -1,16 +1,17 @@
-# Hi, I'm Ashfaque Hurzuk 👋
+# Ashfaque Hurzuk
 
-Cloud & DevOps Engineer | Navi Mumbai
+Cloud & DevOps Engineer | Navi Mumbai, India
 
-## 🛠️ Tech Stack
-AWS · Docker · Jenkins · Linux (RHEL) · VMware · Networking (CCNA) · Python · Git
+AWS · Docker · Jenkins · Linux (RHEL) · VMware · Networking · Python · Git
 
-## 🚀 Projects
-- [AWS Multi-Tier DevOps Deployment](https://github.com/ashfaquehurzuk0/aws-devops-project) — VPC, ALB, Docker, Jenkins CI/CD
+## Projects
+- [AWS Multi-Tier DevOps Deployment](https://github.com/ashfaquehurzuk0/aws-devops-project) — VPC, ALB, Docker, Jenkins CI/CD, CloudWatch
 - [Linux Sysadmin Scripts](https://github.com/ashfaquehurzuk0/linux-sysadmin-scripts) — RHCSA-level administration
 - [Python Basics Practice](https://github.com/ashfaquehurzuk0/python-basics-practice) — scripting fundamentals
 
-## 📫 Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue)](https://www.linkedin.com/in/ashfaque-hurzuk-a2b8a637a)
+## Currently Pursuing
+PG Diploma in Cloud Computing — AIIITS Kharghar
 
-📍 Navi Mumbai | Open to Cloud Engineer & DevOps roles
+Open to Cloud Engineer and DevOps roles in Mumbai or remote
+
+[LinkedIn](https://www.linkedin.com/in/ashfaque-hurzuk-a2b8a637a)
