@@ -1,17 +1,22 @@
 # Ashfaque Hurzuk
 
-Cloud & DevOps Engineer | Navi Mumbai, India
+**Cloud & DevOps Engineer** | Navi Mumbai, India
 
-AWS · Docker · Jenkins · Linux (RHEL) · VMware · Networking · Python · Git
+## Tech Stack
+`AWS` `Docker` `Jenkins` `Linux (RHEL)` `VMware` `Python` `Git` `Networking (CCNA)`
 
 ## Projects
-- [AWS Multi-Tier DevOps Deployment](https://github.com/ashfaquehurzuk0/aws-devops-project) — VPC, ALB, Docker, Jenkins CI/CD, CloudWatch
-- [Linux Sysadmin Scripts](https://github.com/ashfaquehurzuk0/linux-sysadmin-scripts) — RHCSA-level administration
-- [Python Basics Practice](https://github.com/ashfaquehurzuk0/python-basics-practice) — scripting fundamentals
 
-## Currently Pursuing
-PG Diploma in Cloud Computing — AIIITS Kharghar
+| Project | Tech Used |
+|---------|-----------|
+| [AWS Multi-Tier DevOps Deployment](https://github.com/ashfaquehurzuk0/aws-devops-project) | AWS VPC, ALB, EC2, Docker, Jenkins, CloudWatch |
+| [Linux Sysadmin Scripts](https://github.com/ashfaquehurzuk0/linux-sysadmin-scripts) | RHEL, LVM, SELinux, firewalld, cron, NFS |
+| [Python Basics Practice](https://github.com/ashfaquehurzuk0/python-basics-practice) | Python, functions, data structures |
 
-Open to Cloud Engineer and DevOps roles in Mumbai or remote
+## Currently
+- Pursuing PG Diploma in Cloud Computing — AIIITS Kharghar
+- Open to Cloud Engineer and DevOps roles in Mumbai or remote
 
-[LinkedIn](https://www.linkedin.com/in/ashfaque-hurzuk-a2b8a637a)
+## Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ashfaque_Hurzuk-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/ashfaque-hurzuk-a2b8a637a)
+📧 ashfaquehurzuk0@gmail.com
