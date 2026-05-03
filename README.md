@@ -109,8 +109,8 @@ loops, functions, and data structures applied to scripting use cases.
 
 | Degree | Institution | Year | Score |
 |--------|------------|------|-------|
-| PG Diploma in Cloud Computing | AIIITS Kharghar, Navi Mumbai | 2024 – Present | Pursuing |
-| BSc Information Technology | HETCCSIT, Mumbai University | 2021 – 2024 | 7.70 CGPA |
+| PG Diploma in Cloud Computing | AIIITS Kharghar, Navi Mumbai | 2025 – Present | Pursuing |
+| BSc Information Technology | HETCCSIT, Mumbai University | 2022 – 2025 | 7.70 CGPA |
 
 ---
 
@@ -124,8 +124,8 @@ loops, functions, and data structures applied to scripting use cases.
 | MCSA Windows Server | Exam-level preparation |
 | VMware ESXi & vSphere | Hands-on lab experience |
 | DevOps — Docker, Jenkins, CI/CD | Hands-on project experience |
-| Microsoft Azure AZ-104 | In Progress |
-| Cloud Security | In Progress |
+| Microsoft Azure AZ-104 | Pending |
+| Cloud Security | Pending |
 | Python Scripting | In Progress |
 
 ---
