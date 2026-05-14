@@ -1,5 +1,5 @@
 # Ashfaque Hurzuk
-### Cloud & DevOps Support Engineer | Linux Administration| Navi Mumbai
+### Cloud & DevOps Support Engineer | Linux Administration | Navi Mumbai
 
 AWS · Docker · Jenkins · Terraform · Linux · Python
 
