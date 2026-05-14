@@ -15,7 +15,7 @@
 - 🐧 Strong foundation in Linux Administration (RHCSA-level)
 - ⚙️ Skilled in CI/CD, Infrastructure as Code, Docker, and automation
 - 🔍 Interested in Cloud Support, DevOps, Linux Administration, and Infrastructure roles
-- 📚 Currently learning Kubernetes, Azure Administration (AZ-104), and Cloud Security
+- 📚 Next learning Goals Kubernetes, Azure Administration (AZ-104), and Cloud Security
 - 🛠️ Building real-world cloud infrastructure and troubleshooting projects
 
 ---
