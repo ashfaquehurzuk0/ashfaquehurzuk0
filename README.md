@@ -69,7 +69,6 @@
 ## 💻 Programming & Automation
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Boto3](https://img.shields.io/badge/Boto3-AWS-orange?style=for-the-badge)
 
 ---
 
@@ -87,12 +86,11 @@
 ![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Active Directory](https://img.shields.io/badge/Active_Directory-003366?style=for-the-badge)
 
----
-
-## 📚 Currently Learning
+## 📚 Next Learning Goals
 
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Cloud Security](https://img.shields.io/badge/Cloud_Security-FF6F00?style=for-the-badge&logo=icloud&logoColor=white)
 
 ---
 
